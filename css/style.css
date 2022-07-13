@@ -1274,6 +1274,7 @@ body {
     height: 210px;
     margin: auto;
     border-radius: 18px;
+    width: 100%;
   }
   .photo_block {
     width: 100%;
@@ -1350,6 +1351,7 @@ body {
   .bg_img_section_story {
     margin-top: -1px;
     height: 690px;
+    width: 100%;
   }
   .story_block {
     margin: -705px auto auto 15px;
@@ -1425,7 +1427,7 @@ body {
     margin-top: -28px;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
-    width: 390px;
+    width: 100%;
   }
   .footer_text_rights {
     display: none;
